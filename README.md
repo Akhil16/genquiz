@@ -12,3 +12,6 @@ The main idea of the project is to provide a paper less Quiz upto 100%. It also 
 
 	Providing the facility of sharing online. 
 
+
+
+This project is open to all. It was designed in April 2017 using Laravel ( php Framework). feel free to contribute.
